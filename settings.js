@@ -1,7 +1,7 @@
 /*
   project_name : 𝙆𝘼𝙉𝙂𝙊-𝙓𝙈𝘿 Bot
   Version : 2.4.0
-  Owner : Hector Manuel
+  Owner : Fradrick Musakatiza 
   Do Not Clone 
 
 
@@ -16,7 +16,7 @@ if (fs.existsSync('.env')) require('dotenv').config({ path: __dirname+'/.env' })
 
 //--------------------[ SESSION ID ]----------------------//
 
-global.SESSION_ID = process.env.SESSION_ID || 'KANGO~YxxC3QgI#PoTF0_2HP5H1P_AOH_SZY0d7Qua0xVXb5-bbWPNYy7Q' 
+global.SESSION_ID = process.env.SESSION_ID || 'KANGO~Mw42Wb4T#zRVby4tZaDBgFnRPs5PgFEwARyXyCdCpJmgHDdF8AXo' 
 //Enter your 𝙆𝘼𝙉𝙂𝙊-𝙓𝙈𝘿 session id here; must start with KANGO~
 
 //--------------------[ BOT NAME ]----------------------//
@@ -25,7 +25,7 @@ global.botname = process.env.BOT_NAME || '𝙆𝘼𝙉𝙂𝙊-𝙓𝙈𝘿'
 
 //-----------------[ OWNER NUMBER ]------------------//
 
-global.ownernumber = process.env.OWNER_NUMBER || '263780492124' 
+global.ownernumber = process.env.OWNER_NUMBER || '263773169536' 
 
 //-----------------[ OWNER NAME ]------------------//
 
